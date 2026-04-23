@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Shifa
-- 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me -> LinkedIn: https://www.linkedin.com/in/shifa-mulla/
  
  
