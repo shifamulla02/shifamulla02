@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Shifa
+# Hey there, I'm Shifa
 
 ```javascript
 const shifa = {
@@ -9,7 +9,7 @@ const shifa = {
 };
 ```
 
-## 🚀 About Me
+## About Me
 
 I'm a student who enjoys turning ideas into real projects through code. I love exploring new technologies, building practical applications, and continuously improving my development skills.
 
@@ -42,11 +42,11 @@ I'm a student who enjoys turning ideas into real projects through code. I love e
 * Springboot
 * AI Automation
 
-## 🏗 Featured Projects
+## Featured Projects
 
 Check out my pinned repositories to see what I'm currently building and learning.
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to learning, collaborating, and connecting with other developers.
 
