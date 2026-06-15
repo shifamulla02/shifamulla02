@@ -17,7 +17,7 @@ I'm a student who enjoys turning ideas into real projects through code. I love e
 * 💡 Interested in software development and emerging technologies
 * 🔭 Building projects that help me grow as a developer
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
